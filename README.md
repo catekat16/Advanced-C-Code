@@ -7,4 +7,4 @@ This was definitely the toughest required programming course I had taken while a
 
 ### For employment inquiries: 💡 
 
-Due to academic honesty policies, I set the visibility of all the related repos to private, so if you would like to view my work / assess my knowledge of C, please email me and I'll add you as a collaborator!
+Due to academic honesty policies, I set the visibility of all the related repos to private, so if you would like to view my work / assess my knowledge of C, please email me at caitlyn.chen@columbia.edu and I'll add you as a collaborator!
